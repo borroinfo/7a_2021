@@ -1,0 +1,21 @@
+body {background-color: grey;}
+
+#container {
+    width:80%; 
+    margin-left:auto;
+    margin-right: auto;
+
+}
+#überschrift {text-align: center;}
+#bild1{width:60%;display:block; margin-left: auto;margin-right: auto;}
+#header {background-color: blueviolet;}
+#firstSection {background-color: violet;}
+#secondSection{background-color: purple}
+#thirdSection{background-color:violet}
+#fourthSection{background-color: purple;}
+#tabelle{border: 1 px solid}
+table, th, td {border:1px solid;}
+#fifthsection {background-color : violet;}
+#slogan {text-align: center;}
+
+
