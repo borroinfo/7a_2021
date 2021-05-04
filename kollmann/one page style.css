@@ -1,0 +1,23 @@
+body {background-color: rgb(38, 233, 233);}
+
+
+#container {
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+#header {background-color: rgba(247, 225, 166, 0.63);}
+
+#firstSection {background-color: rgba(250, 222, 144, 0.63);}
+
+#secondSection {background-color: rgba(247, 206, 95, 0.63);}
+
+#thirdSection {background-color: rgba(250, 197, 52, 0.63);}
+
+#fourthSection {background-color: rgba(252, 175, 8, 0.63);}
+
+table, th, td { border: 1px solid; }
+
+#Maxi{width: 30%;}
