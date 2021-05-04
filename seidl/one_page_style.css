@@ -1,0 +1,26 @@
+
+body {background-color: rgb(255, 81, 0);}
+
+#container {width: 80%; margin-left: auto; margin-right: auto;}
+
+#header {background-color: darkblue;}
+#secondsection {background-color: yellow;}
+#thirdsection {background-color: orange;}
+#fourthsection {background-color: teal;}
+#uberschrift1 {font-size: 400%; text-align: center;color: white;}
+#bild1 {display: block; margin-left: auto; margin-right: auto;}
+#bild2 {display: block; width: 30%; margin-left: auto; margin-right: auto;}
+#link1 {font-size: 300%; color: white;}
+#firstsection {background-color: slateblue;}
+table, th, td {border: 1px solid;}
+#beschreibung {margin-left: 10px; margin-right: 10px;}
+#funktion {margin-left: 10px;}
+#tabelle {margin-left: 10px;}
+#preis {margin-left: 10px;}
+#btext {margin-left: 10px;}
+#ftext{margin-left: 10px;}
+#link1 {margin-left: 10px;}
+#imp {margin-left: 10px;}
+.imptext {margin-left: 10px;}
+#btext {font-style: oblique; font-size: large;}
+#honk {font-weight: bolder}
