@@ -1,0 +1,26 @@
+#container {width: 80%; background-color: aqua; margin: auto;}
+
+#first {text-align: center}
+
+#beschreibung {background-color: bisque; 
+font-size: large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-bottom: -5px;}
+
+#funktionen {background-color: chocolate;
+font-size: large;
+border: thin solid blue;}
+
+#preise {background-color: darkgoldenrod;
+font-family: "Times New Roman", Gramond, serif;
+margin-top: -18px;}
+
+table, th, tr {border-collapse: separate;}
+table {margin-left: auto; margin-right: auto;}
+table {font-family: Arial, Helvetica, sans-serif;}
+
+#impressum {background-color: darkgreen;
+font-size: smaller;
+margin-top: -18px;}
+
+body {background-color: black;}

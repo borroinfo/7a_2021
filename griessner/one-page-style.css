@@ -1,0 +1,19 @@
+#container {width:80%; background-color:rgba(105, 168, 163, 0.932);
+                        margin:auto;
+}
+
+#first {text-align: center;}
+
+#beschreibung {background-color:rgb(102, 216, 121); font-size: 27;}
+
+body {background-color: rgb(83, 139, 204); font-size: 27;}
+
+#bekannte {background-color: rgb(127, 183, 228); font-size: 27; font-size: 27;}
+
+#preise {background-color: rgb(230, 208, 14); font-size: 27;}
+
+#funktionen {background-color: rgb(245, 111, 1);}
+
+#impressum {background-color: rgb(202, 199, 199);  }
+
+#impressum.text {color: white; }
