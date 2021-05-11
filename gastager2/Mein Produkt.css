@@ -1,0 +1,32 @@
+#content {width: 80%; background-color: darkgray;
+            margin:auto;}
+
+            #first {text-align: center; background-color: deepskyblue;font-size:medium;}
+            #Beschreibung {background-color: deepskyblue;}
+
+        body {background-color: deepskyblue; background-image: url("oriental-tiles/oriental-tiles/oriental-tiles.png")}
+        #Funktionen {background-color: deepskyblue;}
+
+        #Preise{background-color: deepskyblue;font-size:medium;}
+
+        #Impressum{background-color: deepskyblue;}
+
+
+        img {
+            width: 120%;
+          }
+          
+          @media (min-width: 100em) {
+            img {
+              width: 100%;
+              float: right;
+              margin: 0 0 1em 1em;
+            }
+          }
+          
+          @media (min-width: 50em) {
+            img {
+              width: 50%;
+            }
+          }
+          
